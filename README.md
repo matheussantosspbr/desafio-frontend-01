@@ -37,6 +37,6 @@ Desenvolver uma página com o layout abaixo utilizando HTML, CSS e Javascript:
 - Faça o CSS bem estruturado e em um arquivo separado;
 - No JavaScript, evite poluir o escopo global. O uso ou não de bibliotecas também será avaliado.
 
-## Dùvidas
+## Dúvidas
 
 Em caso de dúvidas, entre em contato com eduardo.marcolino@gmail.com
