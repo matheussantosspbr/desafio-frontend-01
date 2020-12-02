@@ -13,4 +13,5 @@ O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades
 ## O Desafio
 
 Este é o layout que deverá ser desenvolvido:
+
 ![preview](preview.png)
