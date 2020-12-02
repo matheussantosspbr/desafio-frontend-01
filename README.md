@@ -5,6 +5,7 @@ O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades
 ## Como realizar o teste
 
 - Faça um fork deste repositório em seu GitHub
+- No seu projeto, crie um diretório chamado project. Todos os arquivos que você criar devem estar dentro desta pasta;
 - Adicione ao Readme uma descrição de como executar seu projeto
 - Não há um limite de tempo, porém consideramos ideal não gastar mais que 8h neste desafio
 - Faça commits parciais, para que possamos acompanhar o seu desenvolvimento.
