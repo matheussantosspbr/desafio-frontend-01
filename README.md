@@ -9,3 +9,8 @@ O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades
 - Não há um limite de tempo, porém consideramos ideal não gastar mais que 8h neste desafio
 - Faça commits parciais, para que possamos acompanhar o seu desenvolvimento.
 - Em caso de dúvidas, entre em contato com eduardo.marcolino@gmail.com
+
+## O Desafio
+
+Este é o layout que deverá ser desenvolvido:
+![preview](preview.png)
