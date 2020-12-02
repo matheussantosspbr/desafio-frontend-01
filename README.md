@@ -8,10 +8,28 @@ O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades
 - Adicione ao Readme uma descrição de como executar seu projeto
 - Não há um limite de tempo, porém consideramos ideal não gastar mais que 8h neste desafio
 - Faça commits parciais, para que possamos acompanhar o seu desenvolvimento.
-- Em caso de dúvidas, entre em contato com eduardo.marcolino@gmail.com
+- Ao final envie o link do seu repositório para eduardo.marcolino@gmail.com
 
 ## O Desafio
 
-Este é o layout que deverá ser desenvolvido:
+Desenvolver uma página com o layout abaixo utilizando HTML, CSS e Javascript:
 
 ![preview](preview.png)
+
+- Não é permitida a utilização de frameworks CSS/Javascript para o desenvolvimento da página.
+- Ao clicar no botão de Login o script deve validar se os dados de usuário e senha preenchidos são válidos e exibir uma mensagem se os dados estão corretos ou não.
+- Os dados de login serão válidos sempre que usuário for igual a senha.
+
+## Critérios de avaliação
+
+- Alcançar os objetivos propostos
+- Qualidade de código
+- Commits parciais, mostrando a linha de desenvolvimento
+- Boa descrição das funcionalidades do desafio
+- Não utilização de bibliotecas ou frameworks
+- Fidelidade ao design proposto
+- Adaptação mobile
+
+## Dùvidas
+
+Em caso de dúvidas, entre em contato com eduardo.marcolino@gmail.com
