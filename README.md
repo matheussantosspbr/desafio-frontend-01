@@ -31,6 +31,12 @@ Desenvolver uma página com o layout abaixo utilizando HTML, CSS e Javascript:
 - Fidelidade ao design proposto
 - Adaptação mobile
 
+### Dicas
+
+- Seu HTML deverá ser o mais semântico possível (faça bom uso das tags HTML5);
+- Faça o CSS bem estruturado e em um arquivo separado;
+- No JavaScript, evite poluir o escopo global. O uso ou não de bibliotecas também será avaliado.
+
 ## Dùvidas
 
 Em caso de dúvidas, entre em contato com eduardo.marcolino@gmail.com
