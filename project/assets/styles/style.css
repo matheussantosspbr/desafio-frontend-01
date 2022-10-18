@@ -18,6 +18,7 @@ body{
   height: 100vh;
   width: 100%;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   background-image: var(--background);
@@ -89,4 +90,56 @@ span{
 span a{
   color: var(--cor-Secundaria);
   text-decoration: none;
+}
+
+.msgSucesso{
+  opacity: 0;
+  visibility: hidden;
+}
+
+body.showSucess .msgSucesso{
+  background-color: white;
+  width: 23rem;
+  height: 3rem;
+  position: absolute;
+  top: -7%;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  border-left:4px solid var(--cor-primaria);
+  border-radius: 5px;
+  animation: drop 0.4s forwards;
+  opacity: 1;
+  visibility: visible;
+}
+
+.msgErro{
+  opacity: 0;
+  visibility: hidden;
+}
+
+body.showError .msgErro{
+  background-color: white;
+  width: 23rem;
+  height: 3rem;
+  position: absolute;
+  top: -7%;
+  display: flex;
+  align-items: center;
+  padding-left: 1rem;
+  border-left:4px solid rgb(222, 11, 0);
+  border-radius: 5px;
+  animation: drop 0.4s forwards;
+  opacity: 1;
+  visibility: visible;
+}
+
+@keyframes drop {
+  from{
+    top: -7%;
+  }
+
+  to{
+    top: 5%;
+  }
 }
