@@ -26,6 +26,7 @@ but.addEventListener('click', e => {
     }
   }
 
+  /* =========================== PUSH ======================== */
   let verificacaoErro = removerTodosOsEspacos(msgErro)
 
   //Validação de Erro
