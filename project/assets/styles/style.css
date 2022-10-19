@@ -143,3 +143,31 @@ body.showError .msgErro{
     top: 5%;
   }
 }
+
+@media (max-width:425px) {
+  main{
+    width: 20rem;
+  }
+
+  body.showError .msgErro{
+  width: 20rem;
+}
+
+p{
+  font-size: 0.85rem;
+}
+}
+
+@media (max-width:320px) {
+  main{
+    width: 18rem;
+  }
+
+  body.showError .msgErro{
+  width: 18rem;
+}
+
+p{
+  font-size: 0.8rem;
+}
+}
