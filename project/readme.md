@@ -14,8 +14,8 @@ $ code .
 
 Após ter aberto o VS Code, se você não tiver a extenção Live Server instalada, instale.
 
-![preview](img/liveServer.png)
+![preview](img/liveServer.PNG)
 
 Com o VS Code Aberto e a Extenção Live Server Instalada, abra o arquivo HTML e aperte o botão direito do seu mouse ( ou do seu touchpad ) e aperte na opção Open With Live Server.
 
-![preview](img/abrirLiveServer.png)
+![preview](img/abrirLiveServer.PNG)
